@@ -1,0 +1,30 @@
+Notes for minimalist ITX Case
+
+
+
+Parts:
+	Motherboard - AsRock Fatal1ty B450 Gaming-ITX
+	Power supply - Semi-Modular Cosair ATX 750W PSU
+	Storage - Western Digital Blue 1TB hard drive 7200RPM
+	GPU - GIGABYTE Eagle Radeon RX 6600 8GB
+
+	1/4" tall brass standoffs - M3 thread
+	Pine Wood 3/4" thick
+	3mm Acrylic
+	Birch Plywood 6mm
+	Black Wood Paint
+	Black Wood Screws
+	Wood Glue
+	Masking Tape
+	
+	
+Assembly:
+	Cut the Top, Bottom, and Front of the case, and put a 45 on one end of the Top and Bottom, and both ends on the Front
+	Cut the grooves for the Mid-Frame and Windows, aswell as the groove on the back for the Rear I/0 Panel
+	Laser-cut the Mid-Frame, Windows, Front I/0 Piece, and Rear I/O panel. (SendCutSend works wonders)
+	Chisle out the gap for the Front I/O Bezel
+	Assemble the Motherboard as standard, but dont connect any cables or the GPU.
+	Paint all of the wooden Pieces in black.
+	
+	
+	
